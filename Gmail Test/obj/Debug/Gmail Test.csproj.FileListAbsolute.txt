@@ -1,0 +1,9 @@
+C:\Users\MikoHuang\documents\visual studio 2013\Projects\Solution1\Gmail Test\bin\Debug\Gmail Test.exe.config
+C:\Users\MikoHuang\documents\visual studio 2013\Projects\Solution1\Gmail Test\bin\Debug\Gmail Test.exe
+C:\Users\MikoHuang\documents\visual studio 2013\Projects\Solution1\Gmail Test\bin\Debug\Gmail Test.pdb
+C:\Users\MikoHuang\documents\visual studio 2013\Projects\Solution1\Gmail Test\obj\Debug\Gmail_Test.Form1.resources
+C:\Users\MikoHuang\documents\visual studio 2013\Projects\Solution1\Gmail Test\obj\Debug\Gmail_Test.Properties.Resources.resources
+C:\Users\MikoHuang\documents\visual studio 2013\Projects\Solution1\Gmail Test\obj\Debug\Gmail Test.csproj.GenerateResource.Cache
+C:\Users\MikoHuang\documents\visual studio 2013\Projects\Solution1\Gmail Test\obj\Debug\Gmail Test.exe
+C:\Users\MikoHuang\documents\visual studio 2013\Projects\Solution1\Gmail Test\obj\Debug\Gmail Test.pdb
+C:\Users\MikoHuang\documents\visual studio 2013\Projects\Solution1\Gmail Test\obj\Debug\Gmail Test.csprojResolveAssemblyReference.cache
